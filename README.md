@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Zlztai
+- 👋 Hi, I’m Jin9X
 - 👀 I’m interested in github
 - 🌱 I’m a newfish and just use other project
-- Thanks!!
+
+- Thanks!! have a good time ！！
 
 <!---
 Zlztai/Zlztai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
